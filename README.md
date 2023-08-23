@@ -1,10 +1,8 @@
 # BrightStars
 
-BrightStars Summary : 
-Complete Employee-Department MVC App using HTML and Bootstrap and CSS 
-ability to upload employee personal info and profile photo , ability to upload department info 
-assigning employees to departments and view their details with the ability to remove or edit employees , ability to search for specific employees and sorting them accordingly 
+Summary : 
+API for create , edit , view , delete Categories and create , edit , view , delete for Products and adding them to certain categories with adding description and photo for specific product 
 
-- Full API Sofware application with identity and login system with ITI Training Program
+- API For Products-Categories 
 - Save products and their categories data in in SQL server
 - Products are saved in their categories in SQL Server
